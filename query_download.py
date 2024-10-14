@@ -48,7 +48,7 @@ DOWNLOAD_BUTTON_CSSS = 'button[class="widget-actions-item export"]'
 
 @dataclass
 class KeywordValueEntry:
-    """Dataclass for related queries"""
+    """Dataclass for related queries""" 
 
     keyword: str
     value: str
